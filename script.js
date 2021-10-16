@@ -42,13 +42,3 @@ function clc(){
     }
     document.getElementById("result").value = itog;
 }
-
-function zxc(){
-    first = document.getElementById("result").value;
-    qwe = parseInt(first)-parseInt(7);
-    document.getElementById("result").value = qwe;
-}
-
-function qwe(){
-    document.getElementById("result").value = 1000;
-}
