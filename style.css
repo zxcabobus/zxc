@@ -1,0 +1,22 @@
+button{
+    background-color: aquamarine;
+    height: 80px;
+    width: 100px;
+    border-radius: 15px;
+    font-size:xx-large;
+}
+.eq{
+    width: 308px;
+}
+.zero{
+    width: 202px;
+}
+input{
+    text-align: right;
+    height: 40px;
+    width: 400px;
+    font-size: xx-large;
+}
+.sf{
+    width: 412px;
+}
